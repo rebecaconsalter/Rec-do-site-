@@ -17,7 +17,8 @@ p {
     font-family: 'Times New Roman', serif;
     color: black;
 }
-img {
-  max-width: 50%;
-  height: auto; /* Ajusta a altura automaticamente para manter a proporção */
+
+.imagem-pequena {
+  width: 50%; /* Ajusta a imagem para 50% da largura do contêiner */
 }
+
